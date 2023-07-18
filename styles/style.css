@@ -23,13 +23,13 @@ body {
   margin: 0 auto;
   background-color: #ffffff;
   padding: 0 20px 20px 20px;
-  border: 5px solid black;
+  border: 5px solid rgb(59, 30, 59);
 }
 h1 {
     margin: 0;
     padding: 20px 0;
-    color: #00539F;
-    text-shadow: 3px 3px 5px rgb(83, 168, 199);
+    color: #6343d8;
+    text-shadow: 3px 3px 5px rgb(218, 246, 255);
   }
 img {
   display: block;
