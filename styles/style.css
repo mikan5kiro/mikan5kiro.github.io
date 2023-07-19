@@ -16,7 +16,7 @@ p, li {
   letter-spacing: 1px;
 }
 html {
-    background-color: #e1bcf2;
+    background-color: #ffffff;
   }
 body {
   width: 600px;
@@ -24,6 +24,8 @@ body {
   background-color: #ffffff;
   padding: 0 20px 20px 20px;
   border: 5px solid rgb(59, 30, 59);
+  background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,204,233,1) 100%);;
 }
 h1 {
     margin: 0;
@@ -35,5 +37,25 @@ img {
   display: block;
   margin: 0 auto;
 }
-    
-  
+.miao:hover {
+  color: #ff08a9;
+}
+div {
+  border: #6343d8 solid 5px;
+  border-radius: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin: 20px;
+  background: rgb(238,174,202);
+  background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,204,233,0) 100%);
+}    
+.link {
+  background-color: #ffffff;
+}
+.link:hover {
+  color: aqua;
+}
+.link:visited {
+  color: #db81c6;
+}
+
